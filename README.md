@@ -23,7 +23,7 @@ The notebook requires the following Python libraries:
 # Data Description
 
 The datasets include the following columns:<br>
-<b><li>Time:</li></b> Timestamp of the observation.<br>
+<b><li>Time:</b>Timestamp of the observation.<br>
 <b><li>temperature_2m:</b> Temperature at 2 meters above ground level.<br>
 <b><li>relativehumidity_2m:</b> Relative humidity at 2 meters.<br>
 <b><li>dewpoint_2m:</b> Dew point temperature at 2 meters.<br>
