@@ -23,16 +23,16 @@ The notebook requires the following Python libraries:
 # Data Description
 
 The datasets include the following columns:
-<b>Time:</b> Timestamp of the observation.
-<b>temperature_2m:</b> Temperature at 2 meters above ground level.
-<b>relativehumidity_2m:</b> Relative humidity at 2 meters.
-<b>dewpoint_2m:</b> Dew point temperature at 2 meters.
-<b>windspeed_10m & windspeed_100m:</b> Wind speed at 10 meters and 100 meters above ground.
-<b>winddirection_10m & winddirection_100m:</b> Wind direction at 10 meters and 100 meters.
-<b>windgusts_10m:</b> Wind gusts at 10 meters.
-Power: Generated power output.
+<b>Time:</b> Timestamp of the observation.<br>
+<b>temperature_2m:</b> Temperature at 2 meters above ground level.<br>
+<b>relativehumidity_2m:</b> Relative humidity at 2 meters.<br>
+<b>dewpoint_2m:</b> Dew point temperature at 2 meters.<br>
+<b>windspeed_10m & windspeed_100m:</b> Wind speed at 10 meters and 100 meters above ground.<br>
+<b>winddirection_10m & winddirection_100m:</b> Wind direction at 10 meters and 100 meters.<br>
+<b>windgusts_10m:</b> Wind gusts at 10 meters.<br>
+Power: Generated power output.<br>
 
-#Output
+# Output <br>
 The notebook outputs:
 1) Statistical summaries of the data.
 2) Visualizations of key features affecting power generation.
