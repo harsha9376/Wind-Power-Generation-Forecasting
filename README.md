@@ -6,9 +6,9 @@ This repository contains a Jupyter Notebook for forecasting wind power generatio
 
 # Features
 
-<b>1) Data Loading:</b> Reads datasets from multiple locations (Location1.csv, Location2.csv, Location3.csv, Location4.csv) containing weather and wind data.
-<b>2) Data Preprocessing:</b> Includes steps for cleaning and standardizing data using tools like pandas and scikit-learn.
-<b>3) Exploratory Data Analysis (EDA):</b> Visualizes trends and relationships in the data using matplotlib and seaborn.
+<b>1) Data Loading:</b> Reads datasets from multiple locations (Location1.csv, Location2.csv, Location3.csv, Location4.csv) containing weather and wind data.<br>
+<b>2) Data Preprocessing:</b> Includes steps for cleaning and standardizing data using tools like pandas and scikit-learn.<br>
+<b>3) Exploratory Data Analysis (EDA):</b> Visualizes trends and relationships in the data using matplotlib and seaborn.<br>
 <b>4) Machine Learning:</b> Prepares data for predictive modeling using techniques like feature scaling and splitting into training/testing sets.
 
 # Dependencies
